@@ -1,25 +1,21 @@
-# 伊忍 E-REN COLD BREW TEA — 官網 2026
+# E-REN 官方品牌官網｜正式上市版
 
-本版本已完成品牌英文統一為 **E-REN**，並依最新版 29 款菜單更新。
+此資料夾可直接部署至 GitHub Pages 或其他靜態網站主機。
 
-## 頁面
-- `/index.html`：繁體中文主站
-- `/en/index.html`：English
-- `/ja/index.html`：日本語
-- `/vi/index.html`：Tiếng Việt
-- `/fridge/index.html`：E-REN 發光冰箱／駐點合作
+主要頁面：
+- `index.html`：繁體中文正式上市首頁
+- `en/index.html`：English
+- `ja/index.html`：日本語
+- `vi/index.html`：Tiếng Việt
+- `fridge/index.html`：E-REN 發光冰箱合作計畫
 
-## 目前網站內容
-- 6 大系列、29 款、700ml 統一瓶裝
-- 最新品項與售價
-- 品牌故事與包裝方向
-- 門市店型展示
-- 加盟規劃核心區間
-- 企業活動與 B2B 洽詢
-- 發光冰箱合作方案
-
-## 視覺資產
-正式網站只使用 `images/updated/` 內的新版 E-REN 圖片。舊版品牌圖片與含舊訴求的素材已從部署包移除。
-
-## 部署
-將本資料夾內容上傳至 GitHub Pages repository 根目錄即可。
+正式上市首頁包含：
+- 4 組自動輪播 Banner
+- 新品主打
+- 熱門推薦
+- 品牌廣告視覺
+- 6 大系列 / 29 款正式菜單
+- 品牌故事
+- 台南首店籌備資訊
+- 企業活動合作
+- 加盟資訊
